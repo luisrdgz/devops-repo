@@ -53,3 +53,4 @@ jobs:
           context: .
           push: true
           tags: lrodriguez24601/tech-trek:${{ github.sha }}
+
